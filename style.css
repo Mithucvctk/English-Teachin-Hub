@@ -195,7 +195,7 @@ section {
 }
 .contact_us {
   text-align: center;
-  font-family: fangsong;
+  font-family: initial;
   margin: 16px;
   font-size: 32px;
 }
